@@ -1,4 +1,5 @@
 NovaPay Internal Audit and Policy Framework Development
+
 This project focuses on developing a structured policy framework for NovaPay as part of an internal audit and policy framework assignment. It establishes a two-tier policy hierarchy consisting of foundational and advanced policies, and demonstrates the policy life cycle through the development of a Change Management Policy for Solstice Information Security & Technology Governance.
 Table of Contents
 - Project Overview
